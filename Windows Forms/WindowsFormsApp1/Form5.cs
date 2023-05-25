@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form4 : Form
+    public partial class Form5 : Form
     {
-        public Form4()
+        public Form5()
         {
             InitializeComponent();
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -29,10 +24,10 @@ namespace WindowsFormsApp1
             this.Hide();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Form2 f2 = new Form2();
-            f2.Show();
+            Form6 f6 = new Form6();
+            f6.Show();
             this.Hide();
         }
     }

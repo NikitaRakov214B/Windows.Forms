@@ -29,7 +29,79 @@ namespace WindowsFormsApp1
 
         private void linkLabel8_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
+            Form3 f3 = new Form3();
+            f3.Show();
+            this.Hide();
+        }
 
+        private void linkLabel5_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 f3 = new Form3();
+            f3.Show();
+            this.Hide();
+        }
+
+        private void linkLabel6_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 f3 = new Form3();
+            f3.Show();
+            this.Hide();
+        }
+
+        private void linkLabel7_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 f3 = new Form3();
+            f3.Show();
+            this.Hide();
+        }
+
+        private void linkLabel9_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 f3 = new Form3();
+            f3.Show();
+            this.Hide();
+        }
+
+        private void linkLabel10_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 f3 = new Form3();
+            f3.Show();
+            this.Hide();
+        }
+
+        private void linkLabel11_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 f3 = new Form3();
+            f3.Show();
+            this.Hide();
+        }
+
+        private void linkLabel12_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 f3 = new Form3();
+            f3.Show();
+            this.Hide();
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form4 f4 = new Form4();
+            f4.Show();
+            this.Hide();
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form5 f5 = new Form5();
+            f5.Show();
+            this.Hide();
+        }
+
+        private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form6 f6 = new Form6();
+            f6.Show();
+            this.Hide();
         }
     }
 }

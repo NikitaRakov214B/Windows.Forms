@@ -155,6 +155,7 @@ namespace WindowsFormsApp1
             this.linkLabel1.TabIndex = 22;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Добавить билет";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // linkLabel2
             // 
@@ -166,6 +167,7 @@ namespace WindowsFormsApp1
             this.linkLabel2.TabIndex = 23;
             this.linkLabel2.TabStop = true;
             this.linkLabel2.Text = "Удалить билет";
+            this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel2_LinkClicked);
             // 
             // linkLabel3
             // 
@@ -176,6 +178,7 @@ namespace WindowsFormsApp1
             this.linkLabel3.TabIndex = 24;
             this.linkLabel3.TabStop = true;
             this.linkLabel3.Text = "Иванов И.И.";
+            this.linkLabel3.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel3_LinkClicked);
             // 
             // label1
             // 
@@ -207,6 +210,7 @@ namespace WindowsFormsApp1
             this.linkLabel5.TabIndex = 27;
             this.linkLabel5.TabStop = true;
             this.linkLabel5.Text = "Билет";
+            this.linkLabel5.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel5_LinkClicked);
             // 
             // linkLabel6
             // 
@@ -217,6 +221,7 @@ namespace WindowsFormsApp1
             this.linkLabel6.TabIndex = 28;
             this.linkLabel6.TabStop = true;
             this.linkLabel6.Text = "Билет";
+            this.linkLabel6.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel6_LinkClicked);
             // 
             // linkLabel7
             // 
@@ -227,6 +232,7 @@ namespace WindowsFormsApp1
             this.linkLabel7.TabIndex = 29;
             this.linkLabel7.TabStop = true;
             this.linkLabel7.Text = "Билет";
+            this.linkLabel7.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel7_LinkClicked);
             // 
             // linkLabel8
             // 
@@ -248,6 +254,7 @@ namespace WindowsFormsApp1
             this.linkLabel9.TabIndex = 31;
             this.linkLabel9.TabStop = true;
             this.linkLabel9.Text = "Билет";
+            this.linkLabel9.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel9_LinkClicked);
             // 
             // linkLabel10
             // 
@@ -258,6 +265,7 @@ namespace WindowsFormsApp1
             this.linkLabel10.TabIndex = 32;
             this.linkLabel10.TabStop = true;
             this.linkLabel10.Text = "Билет";
+            this.linkLabel10.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel10_LinkClicked);
             // 
             // linkLabel11
             // 
@@ -268,6 +276,7 @@ namespace WindowsFormsApp1
             this.linkLabel11.TabIndex = 33;
             this.linkLabel11.TabStop = true;
             this.linkLabel11.Text = "Билет";
+            this.linkLabel11.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel11_LinkClicked);
             // 
             // linkLabel12
             // 
@@ -278,6 +287,7 @@ namespace WindowsFormsApp1
             this.linkLabel12.TabIndex = 34;
             this.linkLabel12.TabStop = true;
             this.linkLabel12.Text = "Билет";
+            this.linkLabel12.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel12_LinkClicked);
             // 
             // Form2
             // 
